@@ -12,6 +12,23 @@
 
 NullTracker is an advanced logging bot for Discord servers, designed to monitor and record server activities in real-time. It is modular, configurable, and easy to integrate into any Discord server that values organization, security, and insight.
 
+---
+
+<details>
+<summary><b>🆕 NEW: <code>/reset_channel</code> Command</b></summary>
+
+### Update Patch v1.1  •  [View Release](https://github.com/RDXFGXY1/NullStudio/releases/tag/v1.1)
+
+> **/reset_channel**  
+> • Effortlessly reset log assignments for any text channel  
+> • Choose which log to reset if a channel has multiple logs  
+> • Only admins with "Manage Channels" permission can use  
+> • Streamlined log management for easier server control
+
+</details>
+
+---
+
 ## Setup Commands
 
 NullTracker uses a hybrid command system, meaning it supports both traditional text commands and new slash (/) commands. All setup commands start with `@setlogchannel` (or your configured prefix) or `/setlogchannel`.
