@@ -6,6 +6,8 @@ Welcome to the **NullStudio** official repository — the central hub for all of
 
 This repository contains the source code, documentation, and resources for our two main bots:
 
+- **Null-AI:** An intelligent AI-powered assistant for Discord servers. Supports real-time, contextual responses via `-ai [your query]`, creates temporary topic-based channels that auto-clean after 10 minutes of inactivity, and provides focused, organized discussions with easy server integration.
+
 * **Null Tracker:** A powerful monitoring bot designed to keep track of server activities, including member joins, message logs, moderation actions, and more — helping admins maintain a healthy and secure server environment.
 
 * **NullFrequance:** A music bot focused on delivering high-quality audio streaming and interactive commands to enhance your server’s entertainment experience.
