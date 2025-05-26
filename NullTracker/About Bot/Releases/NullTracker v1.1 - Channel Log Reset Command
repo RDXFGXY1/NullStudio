@@ -1,0 +1,22 @@
+# New Feature Added: Channel Log Reset Command!
+
+
+## What’s New?
+- **`/reset_channel` Command:**  
+  Server admins can now use this command to reset log assignments for any text channel.
+- If the channel is set for more than one type of log, you’ll get a menu to pick which one to reset.
+- Only admins with “Manage Channels” permission can use this command.
+
+## Why is this useful?
+- Quickly update or clean up your log settings.
+- Prevents confusion by letting you choose exactly which log to reset in each channel.
+- Helps keep your server organized!
+
+## How to Use?
+Just type `/reset_channel` in any text channel where you want to reset log setups.  
+The bot will guide you through the rest!
+
+---
+
+Thank you for using NullStudio Bot!  
+If you have feedback or run into any issues, let us know.
